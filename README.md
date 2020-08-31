@@ -14,10 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p float="left"><img src = "https://i.postimg.cc/FRswxBxC/Professional.png" height=300px> <ul>
-  <li>- 🔭 Check my pins for what I'm working on currently!</li>
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src = "https://i.postimg.cc/FRswxBxC/Professional.png" height=300px>  |  <ul>
+  <li>🔭 Check my pins for what I'm working on currently!</li>
 <li>🌱 I’m currently learning Javascript.</li>
 <li> 📫 How to reach me: Send me an email at rheamanuel02@gmail.com</li>
 <li> 😄 Pronouns: she/her</li>
 <li>⚡ Fun fact: I've read over 100 books this year.</li>
-</ul></p>
+</ul>
+
+
+<p float="left"> </p>
