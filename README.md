@@ -1,4 +1,4 @@
-### Hey, I'm Rhea! 👋
+
 
 <!--
 **rhea-manuel/rhea-manuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src = "https://i.postimg.cc/FRswxBxC/Professional.png" height=300px>
+<img src = "https://i.postimg.cc/FRswxBxC/Professional.png" height=300px>### Hey, I'm Rhea! 👋
