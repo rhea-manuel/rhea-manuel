@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src = "https://i.postimg.cc/FRswxBxC/Professional.png" height=300px>  |  <ul>
+<img src = "https://i.postimg.cc/FRswxBxC/Professional.png" height=300px>
+<ul>
   <li>🔭 Check my pins for what I'm working on currently!</li>
 <li>🌱 I’m currently learning Javascript.</li>
 <li> 📫 How to reach me: Send me an email at rheamanuel02@gmail.com</li>
