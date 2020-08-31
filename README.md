@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <p align="center">
 <img  src = "https://i.postimg.cc/FRswxBxC/Professional.png" height=300px></p>
 <p align="center">
-• 🔭 Check my pins for what I'm working on currently!</li>
-• 🌱 I’m currently learning Javascript.</li>
-• 📫 How to reach me: Send me an email at rheamanuel02@gmail.com</li>
-• 😄 Pronouns: she/her</li>
-• ⚡ Fun fact: I've read over 100 books this year.</li>
+• 🔭 Check my pins for what I'm working on currently!<br>
+• 🌱 I’m currently learning Javascript.<br>
+• 📫 How to reach me: Send me an email at rheamanuel02@gmail.com<br>
+• 😄 Pronouns: she/her<br>
+• ⚡ Fun fact: I've read over 100 books this year.<br>
 </p>
 
