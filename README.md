@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Solarized dark             |  Solarized Ocean
+            |  
 :-------------------------:|:-------------------------:
 <img src = "https://i.postimg.cc/FRswxBxC/Professional.png" height=300px>  |  <ul>
   <li>🔭 Check my pins for what I'm working on currently!</li>
