@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-            |  
-:-------------------------:|:-------------------------:
 <img src = "https://i.postimg.cc/FRswxBxC/Professional.png" height=300px>  |  <ul>
   <li>🔭 Check my pins for what I'm working on currently!</li>
 <li>🌱 I’m currently learning Javascript.</li>
@@ -24,6 +22,3 @@ Here are some ideas to get you started:
 <li> 😄 Pronouns: she/her</li>
 <li>⚡ Fun fact: I've read over 100 books this year.</li>
 </ul>
-
-
-<p float="left"> </p>
