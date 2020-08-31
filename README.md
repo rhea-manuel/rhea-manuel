@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<img align="center" src = "https://i.postimg.cc/FRswxBxC/Professional.png" height=300px>
+<p align="center">
+<img  src = "https://i.postimg.cc/FRswxBxC/Professional.png" height=300px></p>
 <ul align="center">
   <li>🔭 Check my pins for what I'm working on currently!</li>
 <li>🌱 I’m currently learning Javascript.</li>
