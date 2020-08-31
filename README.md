@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div>
 <img src = "https://i.postimg.cc/FRswxBxC/Professional.png" height=300px>
 <ul>
   <li>🔭 Check my pins for what I'm working on currently!</li>
@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 <li> 😄 Pronouns: she/her</li>
 <li>⚡ Fun fact: I've read over 100 books this year.</li>
 </ul>
+</div>
