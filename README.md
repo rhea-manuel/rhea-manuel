@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src = "https://i.postimg.cc/FRswxBxC/Professional.png" height=300px> - 🔭 Check my pins for what I'm working on currently!
-- 🌱 I’m currently learning Javascript.
-- 📫 How to reach me: Send me an email at rheamanuel02@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I've read over 100 books this year.
-
+<p float="left"><img src = "https://i.postimg.cc/FRswxBxC/Professional.png" height=300px> <ul>
+  <li>- 🔭 Check my pins for what I'm working on currently!</li>
+<li>🌱 I’m currently learning Javascript.</li>
+<li> 📫 How to reach me: Send me an email at rheamanuel02@gmail.com</li>
+<li> 😄 Pronouns: she/her</li>
+<li>⚡ Fun fact: I've read over 100 books this year.</li>
+</ul></p>
