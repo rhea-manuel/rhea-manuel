@@ -1,5 +1,5 @@
 
-
+### Hey, I'm Rhea! 👋
 <!--
 **rhea-manuel/rhea-manuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src = "https://i.postimg.cc/FRswxBxC/Professional.png" height=300px>### Hey, I'm Rhea! 👋
+<img src = "https://i.postimg.cc/FRswxBxC/Professional.png" height=300px> - 🔭 Check my pins for what I'm working on currently!
+- 🌱 I’m currently learning Javascript.
+- 📫 How to reach me: Send me an email at rheamanuel02@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I've read over 100 books this year.
+
