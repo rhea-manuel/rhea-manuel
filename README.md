@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img  src = "https://i.postimg.cc/FRswxBxC/Professional.png" height=300px></p>
+<img align='right' src = "https://i.postimg.cc/FRswxBxC/Professional.png" height=300px></p>
 <p align="center">
 • 🔭 Check my pins for what I'm working on currently!<br>
 • 🌱 I’m currently learning Javascript.<br>
