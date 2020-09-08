@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 <img align='left' src = "https://i.postimg.cc/FRswxBxC/Professional.png" height=300px></p>
-<p align="center">
+<p align="right">
 • 🔭 Check my pins for what I'm working on currently!<br>
 • 🌱 I’m currently learning Javascript.<br>
 • 📫 How to reach me: Send me an email at rheamanuel02@gmail.com<br>
