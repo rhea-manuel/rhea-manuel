@@ -1,5 +1,5 @@
 
-<h1 align="right">Hi, it's Rhea! ✨</h1>
+<h1 align="">Hi, it's Rhea! ✨</h1>
 <!--
 **rhea-manuel/rhea-manuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">
+<p align="">
 <img align='left' src = "https://i.postimg.cc/FRswxBxC/Professional.png" height=300px></p>
-<p align="right">
+<p align="">
 • 🔭 Check my pins for what I'm working on currently!<br>
 • 🌱 I’m currently learning Javascript.<br>
 • 📫 How to reach me: Send me an email at rheamanuel02@gmail.com<br>
