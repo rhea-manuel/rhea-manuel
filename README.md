@@ -23,7 +23,7 @@ a huge believer in efficient, clean design in both user interface design and pro
 to ensure my designs and code don't just work: they're also as efficient, concise, and readable as
 possible.
 </p><b></b>
-📫 <b>How to reach me:<b> Send me an email at rheamanuel02@gmail.com<br>
+📫 <b>How to reach me:</b> Send me an email at rheamanuel02@gmail.com<br>
 😄 <b>Pronouns:</b> she/her<br>
 ⚡ <b>Fun fact:</b> I've read over 100 books this year.<br>
 
