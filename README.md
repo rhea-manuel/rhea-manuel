@@ -1,5 +1,5 @@
 
-<h2 align="">Hi, it's Rhea! ✨</h2>
+
 <!--
 **rhea-manuel/rhea-manuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <p align="">
 <img align='left' src = "https://i.postimg.cc/FRswxBxC/Professional.png" height=300px></p>
 <p align="">
+<h1 align="">Hi, it's Rhea! ✨</h1>
 Hello! I'm a full stack web developer in training with a background in UI/UX design. I've worked on several
 video game titles as a UI/UX designer and programmer and am currently studying web development. I'm
 a huge believer in efficient, clean design in both user interface design and programming. I work very hard
