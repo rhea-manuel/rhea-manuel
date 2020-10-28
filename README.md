@@ -1,5 +1,5 @@
 
-<h1 align="">Hi, it's Rhea! ✨</h1>
+<h2 align="">Hi, it's Rhea! ✨</h2>
 <!--
 **rhea-manuel/rhea-manuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
