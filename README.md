@@ -22,8 +22,8 @@ video game titles as a UI/UX designer and programmer and am currently studying w
 a huge believer in efficient, clean design in both user interface design and programming. I work very hard
 to ensure my designs and code don't just work: they're also as efficient, concise, and readable as
 possible.
-</p>
-• 📫 How to reach me: Send me an email at rheamanuel02@gmail.com<br>
-• 😄 Pronouns: she/her<br>
-• ⚡ Fun fact: I've read over 100 books this year.<br>
+</p><b></b>
+📫 <b>How to reach me:<b> Send me an email at rheamanuel02@gmail.com<br>
+😄 <b>Pronouns:</b> she/her<br>
+⚡ <b>Fun fact:</b> I've read over 100 books this year.<br>
 
