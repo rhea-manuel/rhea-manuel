@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="">
-<img align='left' src = "https://i.postimg.cc/FRswxBxC/Professional.png" height=300px></p>
+<img align='left' src = "https://i.postimg.cc/9MxHmNhM/thin.png" height=300px></p>
 <p align="right">
 <h1 align="">Hi, it's Rhea! ✨</h1>
 <p>
