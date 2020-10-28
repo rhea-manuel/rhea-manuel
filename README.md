@@ -29,4 +29,5 @@ possible.
 📫 <b>How to reach me:</b> <a href="mailto:rheamanuel02@gmail.com">rheamanuel02@gmail.com</a><br>
 😄 <b>Pronouns:</b> she/her<br>
 ⚡ <b>Fun fact:</b> I've read over 100 books this year.<br>
+🖼 <b>Portfolio:</b> (Under Construction)<a href="http://rheamanuel.com/">rheamanuel.com<br>
 </p>
