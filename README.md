@@ -19,11 +19,7 @@ Here are some ideas to get you started:
 <p align="right">
 <h1 align="">Hi, it's Rhea! ✨</h1>
 <p>
-Hello! I'm a full stack web developer in training with a background in UI/UX design. I've worked on several
-video game titles as a UI/UX designer and programmer and am currently studying web development. I'm
-a huge believer in efficient, clean design in both user interface design and programming. I work very hard
-to ensure my designs and code don't just work: they're also as efficient, concise, and readable as
-possible.
+Hello! I'm a professional full stack web developer with experience working with various technologies such as React, Node.js, Express, MongoDB, Java Spring, Typescript and more. My primary strength is flexibility: I can adapt and learn new technologies on the fly very quickly. I also have some DevSecOps experience working with Jenkins pipelines and Docker. 
   </p>
 <b></b>
 📫 <b>How to reach me:</b> <a href="mailto:rheamanuel02@gmail.com">rheamanuel02@gmail.com</a><br>
