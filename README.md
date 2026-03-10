@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 Hello! I'm a professional full stack web developer with experience working with various technologies such as React, Node.js, Express, MongoDB, Java Spring, Typescript and more. My primary strength is flexibility: I can adapt and learn new technologies on the fly very quickly. I also have some DevSecOps experience working with Jenkins pipelines and Docker. 
   </p>
 <b></b>
-📫 <b>How to reach me:</b> <a href="mailto:rheamanuel02@gmail.com">rheamanuel02@gmail.com</a><br>
+📫 <b>How to reach me:</b> <a href="mailto:rheact@tuta.com">rheact@tuta.com</a><br>
 😄 <b>Pronouns:</b> she/her<br>
 </p>
